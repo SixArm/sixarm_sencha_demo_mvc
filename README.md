@@ -1,4 +1,4 @@
-# SixArm.com » Sencha » Demo » Model View Controller
+# Sencha » Demo » Model View Controller
 
   * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
   * Copyright: Copyright (c) 2011 Joel Parker Henderson
